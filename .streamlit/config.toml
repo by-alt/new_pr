@@ -1,0 +1,11 @@
+# Organic Modernism theme for the Streamlit dashboard (matches dashboard/index.html)
+[theme]
+base = "light"
+primaryColor = "#2F8F66"
+backgroundColor = "#F6F8F4"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#10241C"
+font = "sans serif"
+
+[server]
+headless = true
